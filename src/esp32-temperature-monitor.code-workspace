@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../esp32-temperature-monitor"
+		},
+		{
+			"name": "esp32-temperature-monitor",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
